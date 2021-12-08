@@ -1,0 +1,303 @@
+
+
+.france {
+    border-style: solid;
+    background-color: grey;
+    height: 150px;
+    width: 300px;
+}
+
+.france1 {
+    background-color: blue;
+    height: 150px;
+    width: 100px;
+    float: left;
+}
+
+.france2 {
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    float: left;
+}
+
+.france3 {
+    background-color: red;
+    height: 150px;
+    width: 100px;
+    float: left;
+}
+
+.francetitle {
+    background-color: white;
+    text-align: center;
+    width: 300px
+}
+
+
+.germany {
+    border-style: solid;
+    background-color: grey;
+    height: 150px;
+    width: 300px;
+}
+
+.germany1 {
+    background-color: black;
+    height: 50px;
+    width: 300px;
+}
+
+.germany2 {
+    background-color: red;
+    height: 50px;
+    width: 300px
+}
+
+.germany3 {
+    background-color: yellow;
+    height: 50px;
+    width: 300px;
+}
+
+.germanytitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.mad {
+    border-style: solid;
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    display: flex;
+}
+
+.mad1 {
+    background-color: red;
+    height: 75px;
+    width: 200px;
+ 
+}
+.mad3 {
+    width: 100px;
+    height: 150px;
+    background-color: white;
+}
+
+.mad2 {
+    background-color: green;
+    height: 75px;
+    width: 200px;
+}
+
+
+.madtitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.swiss {
+    border-style: solid;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+}
+
+.swissver {
+    background-color: white;
+    height: 100px;
+    width: 25px;
+    position: relative;
+    top: 0px;
+    left: 62.5px;  
+}
+
+.swisshor {
+    background-color: white;
+    height: 25px;
+    width: 100px;
+    position: relative;
+    top: 62.5px;
+    left: 25px;
+}
+
+.swisstitle {
+    background-color: white;
+    text-align: center;
+    width: 150px;
+}
+
+.sweden {
+    border-style: solid;
+    background-color: #0269A6;
+    height: 150px;
+    width: 300px;
+}
+
+.swedevert {
+    background-color: #FECC00;
+    height: 150px;
+    width: 25px;
+    position: relative;
+    left: 75px;
+}
+
+.swedehor {
+    background-color: #FECC00;
+    height: 25px;
+    width: 300px;
+    position: relative;
+    top: -87.5px;
+}
+
+.swedentitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.gambia {
+    border-style: solid;
+    background-color: white;
+    height: 163px;
+    width: 300px;
+}
+
+.gambia1 {
+    background-color: #CE1127;
+    height: 50px;
+    width: 300px;
+}
+
+.gambia2 {
+    background-color: #0D1D8B;
+    height: 37.5px;
+    width: 300px;
+    position: relative;
+    top: 62.5px;
+}
+
+.gambia3 {
+    background-color: #3B7827;
+    height: 50px;
+    width: 300px;
+    position: relative;
+    top: 62.5px;
+}
+
+.gambiatitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.japan {
+    border-style: solid;
+    background-color: white;
+    height: 150px;
+    width: 300px;
+}
+
+.japan1 {
+    background-color: #BC022C;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    position: relative;
+    left: 112.5px;
+    top: 37.5px;
+}
+
+.japantitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.niger {
+    border-style: solid;
+    background-color: white;
+    height: 150px;
+    width: 300px;
+}
+
+.niger1 {
+    background-color: #E15307;
+    height: 50px;
+    width: 300px;
+}
+
+.niger2 {
+    background-color: #E15307;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    left: 125px;
+    top: 50px;
+}
+
+.niger3 {
+    background-color: #10AF2A;
+    height: 50px;
+    width: 300px;
+    position: relative;
+    top: 50px;
+}
+
+.nigertitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.greece {
+    border-style: solid;
+    background-color: white;
+    height: 150px;
+    width: 300px;
+}
+
+.greece1 {
+    background-color: #0E5FAE;
+    height: 16.66666px;
+    width: 300px;
+
+}
+
+.greece2 {
+    background-color: white;
+    height: 16.6px;
+    width: 300px;
+}
+
+.greece3 {
+    background-color: #0E5FAE;
+    height: 75px;
+    width: 90px;
+}
+
+.greecevert {
+    background-color: white;
+    height: 100px;
+    width: 16.6px;
+    position: relative;
+    left: 35px;
+}
+
+.greecehor {
+    background-color: white;
+    height: 16.6px;
+    width: 100px;
+    position: relative;
+    top: -70px;
+}
+
+.greecetitle {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
