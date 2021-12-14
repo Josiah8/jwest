@@ -1,0 +1,24 @@
+{
+  "name": "Assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm-practice.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josiah8/jwest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josiah8/jwest/issues"
+  },
+  "homepage": "https://github.com/Josiah8/jwest#readme"
+}
